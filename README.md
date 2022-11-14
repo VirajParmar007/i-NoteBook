@@ -2,6 +2,11 @@
 
 This project is a full-stack web application created with [Create React App, Bootstrap, Material UI] for learning and applying concepts of MERN stack.
 
+Download the Project files/ extract
+Create a .env file and add your JWT signature for example ### `REACT_APP_JWT_SECRET= "AbcDefGHIKJLMNopqrsT12345678910UvWxyZ"` (Important)
+In the file location right click >> open with VS code or any other editor.
+In terminal write ### `npm install` to install the node_modules folder. (Important)
+
 ## Available Scripts
 
 In the project directory, you can run:
