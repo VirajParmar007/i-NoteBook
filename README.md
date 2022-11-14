@@ -12,9 +12,9 @@ Runs the Node.js Express server (Backend) on [http://localhost:5000]
 Runs the app in the development mode.\
 Open [http://localhost:3000] to view it in your browser.
 
-#### Create an account, login and you can store, access, update and delete your notes whenever you want.
+## Create an account, login and you can store, access, update and delete your notes whenever you want.
 
-##### Development of application:
+## Development of application:
 It is a MERN Stack (MondoDB + ExpressJs + ReactJs + Node.js)  application made for education purpose to learn MERN stack and apply the same.
 
 
