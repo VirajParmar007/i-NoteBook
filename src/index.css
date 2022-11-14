@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+i {
+  cursor: pointer;
+  scale: 140%;
+}
+
+@media (max-width:820px) {
+  #brandName {
+    display: block;
+    margin: auto;
+  }
+}
+
